@@ -38,6 +38,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 bottomLeft: Radius.circular(RadiusCircular),
                 bottomRight: Radius.circular(RadiusCircular))),
       ),
+      //git
       backgroundColor: primarycolor,
       body: Padding(
         padding: const EdgeInsets.all(5.0),
